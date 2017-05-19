@@ -1,5 +1,11 @@
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
- font-family: 'Noto Sans KR', sans-serif;
+@font-face {
+  font-family: "NotoSansCJKkr-DemiLight";
+  src: url('https://anima-uploads.s3.amazonaws.com/590fc68b55db30000d8b8140/591e4fb0bec667000cffc0d5/591e50c5bec667000b8c975c/fonts/NotoSansCJKkr-DemiLight.otf') format("opentype");
+}
+@font-face {
+  font-family: "NotoSansCJKkr-Medium";
+  src: url('https://anima-uploads.s3.amazonaws.com/590fc68b55db30000d8b8140/591e4fb0bec667000cffc0d5/591e50c5bec667000b8c975c/fonts/NotoSansCJKkr-Medium.otf') format("opentype");
+}
 
 .a01 {
   width: 100%;
